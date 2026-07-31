@@ -1,4 +1,4 @@
-# Data — raw + prepared (regenerated from Kaggle; see README)
+# Data (raw + prepared; regenerated from Kaggle — see README)
 data/
 *.csv
 *.parquet
@@ -21,11 +21,3 @@ __pycache__/
 # Secrets
 .env
 kaggle.json
-
-# Assignment-specific / not part of the public project
-notebooks/
-presentation/
-figures/
-*.html
-*.pptx
-*.pdf
