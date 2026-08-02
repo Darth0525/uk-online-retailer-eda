@@ -7,3 +7,4 @@ seaborn==0.13.2
 jupyterlab==4.4.3
 nbformat==5.10.4
 kaggle==2.2.2
+statsmodels==0.14.6
